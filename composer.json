@@ -1,0 +1,11 @@
+{
+    "name": "user2140/hexlet",
+    "type": "project",
+    "authors": [
+        {
+            "name": "User2140",
+            "email": "user2140@yandex.ru"
+        }
+    ],
+    "require": {}
+}
